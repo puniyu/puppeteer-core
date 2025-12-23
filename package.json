@@ -34,7 +34,7 @@
     "build": "tsc --noEmit && tsdown"
   },
   "devDependencies": {
-    "@types/node": "^22.13.13",
+    "@types/node": "^24.0.0",
     "puppeteer-core": "^24.17.0",
     "tsc-alias": "^1.8.11",
     "tsdown": "^0.18.2",

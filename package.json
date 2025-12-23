@@ -6,13 +6,13 @@
     "puniyu",
     "puppeteer-core"
   ],
-  "homepage": "https://github.com/Puniyu/puppeteer-core",
+  "homepage": "https://github.com/puniyu/puppeteer-core",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Puniyu/puppeteer-core.git"
+    "url": "git+https://github.com/puniyu/puppeteer-core.git"
   },
   "bugs": {
-    "url": "https://github.com/Puniyu/puppeteer-core/issues"
+    "url": "https://github.com/puniyu/puppeteer-core/issues"
   },
   "license": "MIT",
   "author": "Puniyu",

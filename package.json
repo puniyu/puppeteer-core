@@ -37,7 +37,7 @@
     "@types/node": "^24.0.0",
     "puppeteer-core": "^24.17.0",
     "tsc-alias": "^1.8.11",
-    "tsdown": "^0.18.2",
+    "tsdown": "^0.20.0",
     "tsx": "^4.19.3",
     "typescript": "^5.8.2"
   },
